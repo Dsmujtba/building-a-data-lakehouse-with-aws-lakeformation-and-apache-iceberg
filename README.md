@@ -19,11 +19,11 @@ This project creates a Data Lakehouse with a medallion architecture using AWS La
     -   [4.2 - JSON Transformation and Apache Iceberg](#4-2)
     -   [4.3 - Deployment](#4-3)
 -   [5 - Presentation Zone](#5)
--   [6 - \[Optional and Not Graded] - Apache Iceberg Features](#6)
+-   [6 - Apache Iceberg Features](#6)
 
     -   [6.1 - Schema Evolution](#6-1)
     -   [6.2 - Versioning with Iceberg](#6-2)
--   [7 - \[Optional and Not Graded] - Lake Formation Permissions](#7)
+-   [7 - Lake Formation Permissions](#7)
 -   [8 - Environment Clean Up](#8)
 
 ## 1 - Introduction and Setup
