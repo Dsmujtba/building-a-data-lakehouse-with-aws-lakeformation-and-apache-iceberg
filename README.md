@@ -124,7 +124,7 @@ The code demonstrates granting access to tables in the `curated_zone` to the `vo
 
 The code shows how to grant permissions on the `presentation_zone` tables and how to query them using `awswrangler`.
 
-## 6 - \Apache Iceberg Features
+## 6 - Apache Iceberg Features
 
 ### 6.1 - Schema Evolution
 
